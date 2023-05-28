@@ -146,6 +146,26 @@ body{
 }
 
 
+.nav_black:hover{
+    cursor: pointer;
+}
+
+.nav_avatar:hover{
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 900px){
+    .banner_description{
+        padding-right: 10px;
+    }
+    
+    
+}
+
+
+
+
 
 
 
