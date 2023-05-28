@@ -141,18 +141,12 @@ body{
     background-color: #111;
 }
 
-.nav_avatar{
-    border-radius: 3px;
-}
 
 
-.nav_black:hover{
-    cursor: pointer;
-}
 
-.nav_avatar:hover{
-    cursor: pointer;
-}
+
+
+
 
 
 
